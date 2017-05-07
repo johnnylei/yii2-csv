@@ -1,4 +1,4 @@
-# message_system
+# yii2 csv extension
 这是一个基于yii2的csv导出扩展
 
 ## install
