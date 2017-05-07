@@ -3,7 +3,7 @@
 
 ## install
 ```
-composer require --prefer-dist johnnylei/yii2-csv
+composer require --prefer-dist johnnylei/csv
 ```
 
 ## usage
